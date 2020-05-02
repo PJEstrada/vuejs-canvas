@@ -8,9 +8,10 @@ yarn install
 ### Compiles and hot-reloads for development
 ```
 yarn serve
-### Run unit tests
 ```
 
+### Run unit tests
+```
 yarn test:unit
 ```
 
